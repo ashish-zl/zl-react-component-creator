@@ -1,0 +1,20 @@
+{
+    "name": "zl-react-component-generator",
+    "version": "1.0.0",
+    "description": "A React component generator library to create component in React projects by using terminal.",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc",
+        "prepare": "npm run build"
+    },
+    "author": "Ziroh Labs",
+    "license": "MIT",
+    "files": [
+        "lib/**/*"
+    ],
+    "devDependencies": {
+        "prettier": "3.0.3"
+    }
+}

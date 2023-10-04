@@ -1,0 +1,9 @@
+# node modules related:
+node_modules
+
+# build related:
+/lib
+
+# development related:
+package-lock.json
+.vscode
